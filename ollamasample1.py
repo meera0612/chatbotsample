@@ -1,5 +1,5 @@
-from langchain_core.prompt import ChatPromptTemplate
-from langchain_core.output_parsers import StrOutputParser
+from langchain-core.prompt import ChatPromptTemplate
+from langchain-core.output_parsers import StrOutputParser
 from langchain_community.llms import Ollama
 import streamlit as st
 
